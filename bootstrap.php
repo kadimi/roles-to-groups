@@ -1,11 +1,10 @@
 <?php
 /**
- * Plugin Name: WP Starter
- * Description: WP Starter Description
+ * Plugin Name: Roles to Groups
+ * Description: Automatically add users to BuddyPress/BuddyBoss groups based on their roles.
  * Text Domain: wp-starter-plugin
  * Version: 1.0.0
- * Plugin URI: https://www.github.com/kadimi/wp-starter-plugin
- * GitHub Plugin URI: https://github.com/kadimi/wp-starter-plugin
+ * Plugin URI: https://kadimi.com
  * Author: Nabil Kadimi
  * Author URI: https://kadimi.com
  *
@@ -15,7 +14,7 @@
 /**
  * Composer autoload.
  */
-require __DIR__ . 'vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 /**
  * The plugin class.

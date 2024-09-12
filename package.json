@@ -1,0 +1,12 @@
+{
+  "prettier": {
+    "parser": "php",
+    "plugins": [
+      "@prettier/plugin-php"
+    ]
+  },
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.22.2",
+    "prettier": "npm:wp-prettier@^3.0.3"
+  }
+}
