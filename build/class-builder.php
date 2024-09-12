@@ -122,6 +122,9 @@ class Builder {
 				'build/',
 			)
 		);
+		$files = array_filter($files, function($file) {
+			return !preg_match('/\.(gitkeep|gitignore)$/', $file);
+		}) ;
 
 		/**
 		 * Create package.

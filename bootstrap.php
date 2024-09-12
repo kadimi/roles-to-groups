@@ -2,11 +2,13 @@
 /**
  * Plugin Name: Roles to Groups
  * Description: Automatically add users to BuddyPress/BuddyBoss groups based on their roles.
- * Text Domain: wp-starter-plugin
+ * Text Domain: roles-to-groups
  * Version: 1.0.0
  * Plugin URI: https://kadimi.com
  * Author: Nabil Kadimi
  * Author URI: https://kadimi.com
+ * License: GNU General Public License v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  *
  * @package WPStarterPlugin
  */

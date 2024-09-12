@@ -1,9 +1,13 @@
 === Automatic Roles to Groups for BuddyPress and BuddyBoss ===
-Contributors: [Your Name]
+Contributors: Nabil Kadimi
 Tags: buddypress, buddyboss, groups, roles
-Requires at least: 6.6.2
-License: GPL
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tested up to: 6.6.2
+Stable tag: 1.0.0
+
+Add users to BuddyPress and BuddyBoss groups automatically based on the users' roles.
 
 == Description ==
 
