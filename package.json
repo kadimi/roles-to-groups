@@ -1,6 +1,5 @@
 {
   "prettier": {
-    "parser": "php",
     "plugins": [
       "@prettier/plugin-php"
     ]
