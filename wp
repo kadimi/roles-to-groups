@@ -1,5 +1,0 @@
-#!/bin/bash
-
-wproot='/var/www/public';
-cmd="\"wp --path=$wproot $@\"";
-vagrant ssh -c "\"$cmd\""
